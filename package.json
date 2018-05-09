@@ -1,0 +1,16 @@
+{
+  "name": "electroscope",
+  "version": "1.0.0",
+  "description": "Electron-based Horoscope App",
+  "main": "main.js",
+  "repository": "https://github.com/nthomas20/electroscope.git",
+  "author": "Nathaniel Thomas <nthomas20@gmail.com>",
+  "license": "APACHE",
+  "private": false,
+  "devDependencies": {
+    "electron": "^2.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
